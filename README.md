@@ -1,5 +1,5 @@
 - Coté backend
-	Le serveur acceptes toute les requête demandé. Chacun des test est implémenté et est validé
+	Le serveur accepte toutes les requêtes demandées. Chaque test est implémenté et est validé
 	Il implémente des algorithmes de traitement d'images : changement de teinte, pixellisation, etc...
 
 - Coté frontend
